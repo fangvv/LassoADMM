@@ -1,0 +1,10 @@
+使用的MSE最大和最小值，画出了整体上的误差，添加了Error_Bar
+
+图代码文件：
+tuErrorBar_MSE.m、tuErrorBar_R2_Adjusted.m
+
+数据集：
+sto.tab.v2.txt_MSE_R2.txt	分布式文件
+MSE.txt			独立式文件	
+
+提取数据的文件：使用共轭梯度法、原始方法-前向选择法
