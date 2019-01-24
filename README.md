@@ -21,5 +21,7 @@ Weiwei Fang (fangvv@qq.com)
 
 ## Citing LassoADMM
 
-Currently, the paper is under publication. If you find this codebase useful in your research, please contact us first for citation issues.
+Currently, the paper has been accepted by ICAIS 2019 conference and is under publication.
+
+If you find this codebase useful in your research, please contact us first for citation issues.
 
