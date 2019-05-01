@@ -32,7 +32,7 @@ If you use these models in your research, please cite:
   	pages = {493-508},
   	issn = {1546-2218},
   	doi = {10.32604/cmc.2019.05178},
-}
+    }
 
 ## Contact
 
