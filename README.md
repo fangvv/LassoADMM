@@ -21,20 +21,18 @@ In our paper, we use the two well-known datasets as follows:
 
 If you use these models in your research, please cite:
 
-...
-@article{Li2019CMC,
-  title={A Distributed ADMM Approach for Collaborative Regression Learning in Edge Computing},
-  author={Li, Yangyang and Wang, Xue and Fang, Weiwei and Xue, Feng and Jin, Hao and Zhang, Yi and Li, Xianwei},
-  journal={CMC: Computers, Materials & Continua},
-  year={2019},
-  year     = {2017},
-  volume   = {59},
-  number   = {2},
-  pages    = {493-508},
-  issn     = {1546-2218},
-  doi      = {10.32604/cmc.2019.05178},
+    @article{Li2019CMC,
+  	title = {A Distributed ADMM Approach for Collaborative Regression Learning in Edge Computing},
+  	author = {Li, Yangyang and Wang, Xue and Fang, Weiwei and Xue, Feng and Jin, Hao and Zhang, Yi and Li, Xianwei},
+  	journal = {CMC: Computers, Materials & Continua},
+  	year = {2019},
+  	year = {2017},
+  	volume = {59},
+  	number = {2},
+  	pages = {493-508},
+  	issn = {1546-2218},
+  	doi = {10.32604/cmc.2019.05178},
 }
-...
 
 ## Contact
 
