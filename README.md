@@ -30,7 +30,6 @@ If you use these models in your research, please cite:
   	author = {Li, Yangyang and Wang, Xue and Fang, Weiwei and Xue, Feng and Jin, Hao and Zhang, Yi and Li, Xianwei},
   	journal = {CMC: Computers, Materials & Continua},
   	year = {2019},
-  	year = {2017},
   	volume = {59},
   	number = {2},
   	pages = {493-508},
